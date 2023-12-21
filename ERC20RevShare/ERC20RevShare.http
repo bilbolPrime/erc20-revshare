@@ -1,0 +1,6 @@
+@ERC20RevShare_HostAddress = http://localhost:5261
+
+GET {{ERC20RevShare_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

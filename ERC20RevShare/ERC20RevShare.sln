@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERC20RevShare", "ERC20RevShare.csproj", "{6B6E6669-6194-4118-90F3-F2C8FF4A0F38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERC20RevShare.Manager", "..\ERC20RevShare.Manager\ERC20RevShare.Manager.csproj", "{AB457545-E5C7-4D9F-93E6-6DB8C6AFE15B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERC20RevShare.Chain", "..\ERC20RevShare.Chain\ERC20RevShare.Chain.csproj", "{71B6542C-AF6F-41C0-B77F-96CBA7FDEE88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B6E6669-6194-4118-90F3-F2C8FF4A0F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6E6669-6194-4118-90F3-F2C8FF4A0F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B6E6669-6194-4118-90F3-F2C8FF4A0F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B6E6669-6194-4118-90F3-F2C8FF4A0F38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB457545-E5C7-4D9F-93E6-6DB8C6AFE15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB457545-E5C7-4D9F-93E6-6DB8C6AFE15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB457545-E5C7-4D9F-93E6-6DB8C6AFE15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB457545-E5C7-4D9F-93E6-6DB8C6AFE15B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B6542C-AF6F-41C0-B77F-96CBA7FDEE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B6542C-AF6F-41C0-B77F-96CBA7FDEE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B6542C-AF6F-41C0-B77F-96CBA7FDEE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B6542C-AF6F-41C0-B77F-96CBA7FDEE88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC142AC2-201A-4CD9-95D2-6C4F8F3F1A44}
+	EndGlobalSection
+EndGlobal
